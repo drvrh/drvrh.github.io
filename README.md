@@ -5,6 +5,7 @@ Grega Močnik, is scientifically active in the fields of video signal processing
 <details>
 
 <summary>Bibliography</summary>
+<summary> </summary>Pupillometric parameters of alertness during unpredictable but not predictable smooth pursuit neck torsion test are altered in patients with neck pain disorders: a cross-sectional study </summary>
 
 #### *Pupillometric parameters of alertness during unpredictable but not predictable smooth pursuit neck torsion test are altered in patients with neck pain disorders: a cross-sectional study*
 #### Abstract 
