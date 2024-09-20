@@ -2,7 +2,9 @@
 ------------
 ## About 
 Grega Močnik, is scientifically active in the fields of video signal processing and in the Internet of Things, focusing his research on the implementation of communication protocols on embedded systems. He is a doctoral student and as part of his studies he develops video signal processing algorithms that are similar to human image perception. He is involved in several professional and scientific projects. He is also a mentor to students in diverse projects and master’s theses.
-<summary>## Bibliography</summary>
+<details>
+
+<summary>Bibliography</summary>
 
 #### *Pupillometric parameters of alertness during unpredictable but not predictable smooth pursuit neck torsion test are altered in patients with neck pain disorders: a cross-sectional study*
 #### Abstract 
@@ -17,6 +19,7 @@ Grega Močnik, is scientifically active in the fields of video signal processing
 
 #### Cite: 
 > G. Močnik, Z. Kačič, R. Šafarič, and I. Mlakar, “Capturing Conversational Gestures for Embodied Conversational Agents Using an Optimized Kaneda–Lucas–Tomasi Tracker and Denavit–Hartenberg-Based Kinematic Model,” Sensors, vol. 22, no. 21, p. 8318, Oct. 2022, [doi: 10.3390/s22218318](https://www.mdpi.com/1424-8220/22/21/8318)
+</details>
 
 ---
 
