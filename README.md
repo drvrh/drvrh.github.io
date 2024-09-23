@@ -34,6 +34,7 @@ Grega Močnik, is scientifically active in the fields of video signal processing
 <details>
   <summary> 
     #### FlySight Eye
+    </summary>
 #### English: 
     FlySight Eye is software designed for capturing data from eye trackers, intended for use in medical environments to monitor patients. The software allows for easy management of patient data by capturing and organizing information needed for analyses and studies.
 
